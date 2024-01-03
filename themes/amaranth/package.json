@@ -110,7 +110,7 @@
     "gh-pages": "^4.0.0",
     "identity-obj-proxy": "^3.0.0",
     "jest": "^28.1.1",
-    "jest-environment-jsdom": "^28.1.1",
+    "jest-environment-jsdom": "^29.7.0",
     "jest-styled-components": "^7.0.8",
     "markdownlint-cli2": "^0.4.0",
     "postcss-syntax": "^0.36.2",
