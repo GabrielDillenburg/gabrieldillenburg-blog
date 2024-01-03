@@ -51,7 +51,7 @@
   },
   "devDependencies": {
     "@stylelint/postcss-css-in-js": "^0.38.0",
-    "@testing-library/cypress": "^8.0.3",
+    "@testing-library/cypress": "^10.0.1",
     "@testing-library/jest-dom": "^5.16.4",
     "@testing-library/react": "^12.1.5",
     "@types/jest": "^28.1.3",
